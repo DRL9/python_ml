@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.ensemble import IsolationForest
+import pandas as pd
+
 
 rng = np.random.RandomState(42)
 
